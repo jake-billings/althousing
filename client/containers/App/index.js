@@ -7,13 +7,15 @@ import MainSection from '../../components/MainSection'
 import * as TodoActions from '../../actions/todos'
 import style from './style.css'
 
+import Graph from '../../components/Graph';
+
 class App extends Component {
   render() {
     const { todos, actions, children } = this.props
     return (
       <div className={style.normal}>
-        <Header addTodo={actions.addTodo} />
-        <MainSection todos={todos} actions={actions} />
+        <Graph />
+
         {children}
       </div>
     )
