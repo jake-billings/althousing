@@ -18,7 +18,10 @@ const geoJSONUrl = 'https://data.colorado.gov/resource/49x6-nvb5.geojson' +
 const blocksPromise = getJSON(geoJSONUrl);
 const dataPromise = getCoDataEngineData(Metro_Denver_Federally_Subsidized_Affordable_Housing_2014_id);
 
-let layers;
+let resolveLayers;
+export let layers = new Promise((resolve, reject) => {
+    resolveLayers = resolve;
+});
 
 function initMap(mapEl) {
     return new Promise((resolve, reject) => {
@@ -79,7 +82,7 @@ function addGeoJsonToMap({google, map, geoJson, data}) {
     });
 }
 
-function setupLayers({google, map, geoJson, data}) {
+function setupLayers({google, map, geoJson, data, setState}) {
     let newData = data.map(item => {
         return new google.maps.LatLng(parseFloat(item['affhousing_metro_fedsubsidized_2014.y']),
             parseFloat(item['affhousing_metro_fedsubsidized_2014.x']));
@@ -87,26 +90,65 @@ function setupLayers({google, map, geoJson, data}) {
 
     layers = [{
         name: 'Affordable Housing (Heatmap)',
-        visible: true,
+        isVisible: () => {
+            return !!this.layer.getMap();
+        },
+        setVisible: function (visible) {
+            this.layer.setMap(visible?map:null)
+        },
         layer: new google.maps.visualization.HeatmapLayer({
             radius: 20,
             data: newData,
             map: map
-        }),
+        })
+    }, {
+        name: 'Affordable Housing (Census)',
+        isVisible: () => {
+            return !!this.layer.getMap();
+        },
         setVisible: function (visible) {
             this.layer.setMap(visible?map:null)
-        }
-
+        },
+        layer: new google.maps.visualization.HeatmapLayer({
+            radius: 20,
+            data: newData,
+            map: map
+        })
     }, {
-        name: 'Affordable Housing (Census)'
+        name: 'Quality Schools',
+        isVisible: () => {
+            return !!this.layer.getMap();
+        },
+        setVisible: function (visible) {
+            this.layer.setMap(visible?map:null)
+        },
+        layer: new google.maps.visualization.HeatmapLayer({
+            radius: 20,
+            data: newData,
+            map: map
+        })
     }, {
-        name: 'Quality Schools'
-    }, {
-        name: 'Transit'
+        name: 'Transit',
+        isVisible: () => {
+            return !!this.layer.getMap();
+        },
+        setVisible: function (visible) {
+            this.layer.setMap(visible ? map : null)
+        },
+        layer: new google.maps.visualization.HeatmapLayer({
+            radius: 20,
+            data: newData,
+            map: map
+        })
     }];
+    setState({
+        layers
+    });
+
+    resolveLayers(layers);
 }
 
-export default function makeMap() {
+export default function makeMap(setState) {
     const mapEl = document.getElementById('map');
 
     Promise.all([
@@ -119,6 +161,6 @@ export default function makeMap() {
             addGeoJsonToMap({google, map, geoJson, data});
         });
 
-        setupLayers({google,map,data});
+        setupLayers({google,map,data, setState});
     });
 }
