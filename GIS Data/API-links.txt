@@ -7,4 +7,8 @@ https://opendata.socrata.com/resource/j6jg-a5vi.json
 Denver Urban Gardens
 https://opendata.socrata.com/resource/mytp-u6hq.json
 
+Denver Crime Rates
+https://opendata.socrata.com/resource/skyw-dqtq.json
 
+Denver Grocery Stores
+https://opendata.socrata.com/resource/t9mf-rmn2.json
