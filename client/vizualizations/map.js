@@ -39,12 +39,6 @@ function addDataToMap({ google, map, data }) {
       lng: parseFloat(point['affhousing_metro_fedsubsidized_2014.x'], 10),
       lat: parseFloat(point['affhousing_metro_fedsubsidized_2014.y'], 10)
     };
-
-    markers.push(new google.maps.Marker({
-      position: loc,
-      map,
-      title: `Total Subsidized Units: ${point['affhousing_metro_fedsubsidized_2014.restunit']}`
-    }));
   });
 }
 
