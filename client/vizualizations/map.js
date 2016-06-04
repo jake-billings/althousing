@@ -100,42 +100,6 @@ function setupLayers({google, map, geoJson, data, setState}) {
             radius: 20,
             data: newData
         })
-    }, {
-        name: 'Affordable Housing (Census)',
-        isVisible: (layer) => {
-            return layer.layer.getMap();
-        },
-        setVisible: (layer, visible) => {
-            layer.layer.setMap(visible ? map : null)
-        },
-        layer: new google.maps.visualization.HeatmapLayer({
-            radius: 20,
-            data: newData
-        })
-    }, {
-        name: 'Quality Schools',
-        isVisible: (layer) => {
-            return layer.layer.getMap();
-        },
-        setVisible: (layer, visible) => {
-            layer.layer.setMap(visible ? map : null)
-        },
-        layer: new google.maps.visualization.HeatmapLayer({
-            radius: 20,
-            data: newData
-        })
-    }, {
-        name: 'Transit',
-        isVisible: (layer) => {
-            return layer.layer.getMap();
-        },
-        setVisible: (layer, visible) => {
-            layer.layer.setMap(visible ? map : null)
-        },
-        layer: new google.maps.visualization.HeatmapLayer({
-            radius: 20,
-            data: newData
-        })
     }];
     setState({
         layers
