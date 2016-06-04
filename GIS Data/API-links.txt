@@ -5,10 +5,13 @@ RTD Light Rail Routes
 https://opendata.socrata.com/resource/j6jg-a5vi.json
 
 Denver Urban Gardens
-https://opendata.socrata.com/resource/mytp-u6hq.json
+JSON: https://opendata.socrata.com/resource/mytp-u6hq.json
+SOURCE (to edit view): https://opendata.socrata.com/dataset/Denver-Urban-Gardens/4pey-eypb
 
 Denver Crime Rates
-https://opendata.socrata.com/resource/skyw-dqtq.json
+JSON: https://opendata.socrata.com/resource/skyw-dqtq.json
+SOURCE (to edit view): https://opendata.socrata.com/dataset/zoom-2015/skyw-dqtq
 
 Denver Grocery Stores
-https://opendata.socrata.com/resource/t9mf-rmn2.json
+JSON: https://opendata.socrata.com/resource/t9mf-rmn2.json
+SOURCE (to edit view): https://opendata.socrata.com/Business/food-stores-denver/t9mf-rmn2
