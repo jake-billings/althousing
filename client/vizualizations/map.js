@@ -90,55 +90,51 @@ function setupLayers({google, map, geoJson, data, setState}) {
 
     layers = [{
         name: 'Affordable Housing (Heatmap)',
-        isVisible: () => {
-            return !!this.layer.getMap();
+        isVisible: (layer) => {
+            return layer.layer.getMap();
         },
-        setVisible: function (visible) {
-            this.layer.setMap(visible?map:null)
+        setVisible: (layer, visible) => {
+            layer.layer.setMap(visible ? map : null)
         },
         layer: new google.maps.visualization.HeatmapLayer({
             radius: 20,
-            data: newData,
-            map: map
+            data: newData
         })
     }, {
         name: 'Affordable Housing (Census)',
-        isVisible: () => {
-            return !!this.layer.getMap();
+        isVisible: (layer) => {
+            return layer.layer.getMap();
         },
-        setVisible: function (visible) {
-            this.layer.setMap(visible?map:null)
+        setVisible: (layer, visible) => {
+            layer.layer.setMap(visible ? map : null)
         },
         layer: new google.maps.visualization.HeatmapLayer({
             radius: 20,
-            data: newData,
-            map: map
+            data: newData
         })
     }, {
         name: 'Quality Schools',
-        isVisible: () => {
-            return !!this.layer.getMap();
+        isVisible: (layer) => {
+            return layer.layer.getMap();
         },
-        setVisible: function (visible) {
-            this.layer.setMap(visible?map:null)
+        setVisible: (layer, visible) => {
+            layer.layer.setMap(visible ? map : null)
         },
         layer: new google.maps.visualization.HeatmapLayer({
             radius: 20,
-            data: newData,
-            map: map
+            data: newData
         })
     }, {
         name: 'Transit',
-        isVisible: () => {
-            return !!this.layer.getMap();
+        isVisible: (layer) => {
+            return layer.layer.getMap();
         },
-        setVisible: function (visible) {
-            this.layer.setMap(visible ? map : null)
+        setVisible: (layer, visible) => {
+            layer.layer.setMap(visible ? map : null)
         },
         layer: new google.maps.visualization.HeatmapLayer({
             radius: 20,
-            data: newData,
-            map: map
+            data: newData
         })
     }];
     setState({

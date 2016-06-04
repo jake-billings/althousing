@@ -9,6 +9,10 @@ export default class Main extends React.Component {
 
     state = {layers: []};
 
+    toggleLayer(layer) {
+        layer.setVisible(layer, !layer.isVisible(layer));
+    }
+
     render() {
         const rangeMin = 0;
         const rangeMax = 500;
@@ -36,7 +40,7 @@ export default class Main extends React.Component {
                             return (
                                 <div className='box'>
                                     <label className="checkbox">
-                                        <input type="checkbox" />
+                                        <input type="checkbox" onClick={this.toggleLayer.bind(this, layer)}/>
                                         <span></span>
                                     </label>
                                     <span className="checkbox-name">{layer.name}</span>
