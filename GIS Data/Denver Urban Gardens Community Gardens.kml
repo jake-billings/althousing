@@ -1,0 +1,1466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Denver Urban Gardens Community Gardens</name>
+		<description><![CDATA[For more information about any of these sites, including how to get involved, please visit www.dug.org. ]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>36th &amp; Lafayette Community Garden (Full for 2016)</name>
+				<description><![CDATA[36th & Lafayette]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.9707443,39.7670881,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Academia Sandoval School Community Garden (Full for 2016)</name>
+				<description><![CDATA[W 35th Avenue & Wyandot Street<br>Denver, CO 80211]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.015129,39.765852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Agape Community Gardens on Williams (Not open to the public.)</name>
+				<description><![CDATA[2965 Williams Denver, CO 80205]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.966362,39.7592,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Allison Gardens at Semper Farm (Full for 2016)</name>
+				<description><![CDATA[NW Corner of 92nd & Pierce Westminster, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.070866,39.864796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Anythink Commerce City Library Community Garden</name>
+				<description><![CDATA[7185 Monaco Street<br>Commerce City, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.913093,39.826752,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Anythink Perl Mack Library Community Garden</name>
+				<description><![CDATA[7611 Hilltop Circle<br>Denver, CO 80221]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.00337600000002,39.834695,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Anythink Wright Farms Library Community Garden</name>
+				<description><![CDATA[5877 E 120th Ave Thornton, CO 80602]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.920725,39.914526,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Applewood Community Garden</name>
+				<description><![CDATA[12930 W 32nd Avenue<br>Golden, CO 80401]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.144608,39.760699,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Arvada Mennonite Community Garden (Full for 2016)</name>
+				<description><![CDATA[5927 Miller Street<br>Arvada, CO 80004]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.114647,39.804487,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Asian Pacific Development Center Community Garden (Not open to the public)</name>
+				<description><![CDATA[1537 Alton Street, Aurora]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.8826632,39.7409894,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Atlantis Communities Garden (Not open to the public.)</name>
+				<description><![CDATA[201 S Cherokee Street<br>Denver, CO 80223]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.992551,39.712698,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aurora Mental Health Center Community Garden (Full for 2016)</name>
+				<description><![CDATA[14301 East Hampden Avenue, Aurora]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.8219889,39.653755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baker Community Garden (Full for 2016)</name>
+				<description><![CDATA[75 W Bayaud Avenue<br>Denver, CO 80223]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.989627,39.715025,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barney Ford Heights Community Garden (Not open to the public.)</name>
+				<description><![CDATA[2024 Clarkson Street<br>Denver, CO 80205]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.97664500000002,39.747633,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrett School Community Garden</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/0FfLUEk-qTqQcx88B6UfDmp_9GZ9QmjnjErcrVPLaECPHn7ZF_3aLCrVoHCh0nKfE-dAnC4tFwCp4ALqMpauljlUqIsfUZxLdmAeDPK-V3f2DpTT78bUKoKNoOJnseR9AOKdtpX7VXhquts" height="200" width="auto" /><br><br>2900 Richard Allen Ct Denver, CO 80205]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/0FfLUEk-qTqQcx88B6UfDmp_9GZ9QmjnjErcrVPLaECPHn7ZF_3aLCrVoHCh0nKfE-dAnC4tFwCp4ALqMpauljlUqIsfUZxLdmAeDPK-V3f2DpTT78bUKoKNoOJnseR9AOKdtpX7VXhquts</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-104.942635,39.758805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Beeler Street Community Garden (Full for 2016)</name>
+				<description><![CDATA[1675 Beeler Street <br>Aurora, CO 80010]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.88144,39.743309,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Belmar Community Garden at The Learning Source</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/ZSGR90VmroTrgIPyULZrn3U5xrd5IlsQPQUfoHPuXIEBmWbn8Pt5811nbLf0cVtSQPNwIedinRZZ7tL5ynifOVYnFAoC3rqp9vo4HMsYavLwCGtBJvL5gpt5e2KHyTeGPUK_F7b0qRollR8" height="200" width="auto" /><br><br>455 Pierce St Lakewood, CO 80226]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/ZSGR90VmroTrgIPyULZrn3U5xrd5IlsQPQUfoHPuXIEBmWbn8Pt5811nbLf0cVtSQPNwIedinRZZ7tL5ynifOVYnFAoC3rqp9vo4HMsYavLwCGtBJvL5gpt5e2KHyTeGPUK_F7b0qRollR8</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-105.072491,39.710653,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Belmar Groves Community Garden (Not open to the public)</name>
+				<description><![CDATA[259 S Teller Street, Lakewood]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.0788346,39.7124504,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blue Chair Community Garden (Full for 2016)</name>
+				<description><![CDATA[1416 Dayton Street<br>Aurora, CO 80010]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.874823,39.738643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blue Spruce Community Garden</name>
+				<description><![CDATA[Quebec Street & Severn Avenue<br>Denver, CO 80230]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.903399,39.728561,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bromwell School Community Garden (Full for 2016)</name>
+				<description><![CDATA[2500 E 4th Avenue<br>Denver, CO 80206]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.957942,39.722323,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brown School Community Garden</name>
+				<description><![CDATA[2550 Lowell Boulevard<br>Denver, CO 80211]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.033258,39.754476,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bruce Randolph Community Garden (Not open to the public.)</name>
+				<description><![CDATA[1402 E. Bruce Randolph Ave.<br>Denver, CO 80205<br>(This garden serves senior residents of St. Martin Plaza and is not open to the public.)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.970696,39.764379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa Loma Community Garden</name>
+				<description><![CDATA[3850 Alcott Street]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.01709540000002,39.7698604,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa Verde Community Garden (Full for 2016)</name>
+				<description><![CDATA[401 Galapago Street<br>Denver, CO 80204]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.996621,39.722665,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Charles Hay School Community Garden (Full for 2016)</name>
+				<description><![CDATA[3195 S Lafayette Street<br>Englewood, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.973158,39.658339,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chatfield Community Garden at St. Gregory's</name>
+				<description><![CDATA[6653 W Chatfield Avenue<br>Littleton, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.071139,39.56729000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cheltenham School Community Garden (Full for 2016)</name>
+				<description><![CDATA[1580 Julian Street<br>Denver, CO 80204]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.030246,39.742585,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>City Lights Community Garden at Benedict Park Place (Priority for residents of Benedict Park Place) (Full for 2016)</name>
+				<description><![CDATA[410 Park Avenue West <br>Denver, CO 80205]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.982157,39.749583,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cityscape Community Garden at Belmar (Not open to the public)</name>
+				<description><![CDATA[500 S. Reed St., Lakewood  ]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.0733575,39.7069989,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clayton School Community Garden (Full for 2016)</name>
+				<description><![CDATA[4600 S Fox Street<br>Englewood, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.993795,39.632391,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cole Community Garden</name>
+				<description><![CDATA[1350 E 33rd Avenue<br>Denver, CO 80205]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.971094,39.762183,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Connect Auraria Community Garden (Full for 2016)</name>
+				<description><![CDATA[Speer & Saint Francis Way]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.0016755,39.7435108,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cook Park Community Garden at RMSEL (Full for 2016)</name>
+				<description><![CDATA[1700 S Holly Street<br>Denver, CO 80222]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.92050100000002,39.685422,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Courthouse Square Community Garden (Not open to the public.)</name>
+				<description><![CDATA[W 14th Avenue & Santa Fe Drive<br>Denver, CO 80204]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.99942,39.738944,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Creekside Community Garden (Not open to the public.)</name>
+				<description><![CDATA[Pierce Street & W 17th Avenue<br>Denver, CO 80214]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.071536,39.744167,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DC21 at Wyman Community Garden (Full for 2016)</name>
+				<description><![CDATA[1690 Williams Street, Denver]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.9652725,39.7424631,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DeLaney Community Garden (Full for 2016)</name>
+				<description><![CDATA[170 S Chambers Road<br>Aurora, CO 80017<br>(At DeLaney Community Farm)]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.807915,39.715025,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Denver Botanic Gardens Community Garden (Full for 2016)</name>
+				<description><![CDATA[At Denver Botanic Gardens]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.955547,39.732257,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Denver Center for International Studies Community Garden</name>
+				<description><![CDATA[574 W 6th Avenue, Denver CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.993908,39.724943,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Denver Green School Community Garden</name>
+				<description><![CDATA[6700 E Virginia Avenue<br>Denver, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.908834,39.706875,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Denver Language School Community Garden</name>
+				<description><![CDATA[Niagara Street & E 4th Avenue<br>Denver, CO 80220]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.910416,39.722338,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Doull School Community Garden</name>
+				<description><![CDATA[2520 S Utica Street<br>Denver, CO 80219]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.045261,39.672049,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DU Bridge Community Garden (Full for 2016)</name>
+				<description><![CDATA[2320 S Race Street Denver, CO 80210]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.9637889,39.6743609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>East Yale Community Garden at Fox Crossing (Full for 2016)</name>
+				<description><![CDATA[8350 E Yale Avenue<br>Denver, CO 80231]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.886072,39.667986,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eaton Senior Community Garden at The Residences</name>
+				<description><![CDATA[333 S Eaton Street<br>Lakewood, CO]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.059713,39.709829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eddie Maestas Community Garden</name>
+				<description><![CDATA[Lawrence St, Park Ave W & Broadway St, Denver]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.9877334,39.7551252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edgewater Community Garden</name>
+				<description><![CDATA[2444 Depew Street<br>Denver, CO 80214]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.057487,39.75204,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edison School Community Garden</name>
+				<description><![CDATA[3550 Quitman Street<br>Denver, CO 80212]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.039562,39.765466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eiber School Community Garden</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/jXBkPBt-U3GgjUCJR1mtBnxrEZfoTRYF4pxgOAbyz6rg1swOJeNFDS8qNk4aALzMWXmIh31UcLIKKrSTXyalnjL496ZtuWgiDJyLgfEyKGnJmSIm7N9NcBquARGpvG0Q15kKP7nbxdVQt_M" height="200" width="auto" /><br><br>1385 Independence St Lakewood, CO 80215]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/jXBkPBt-U3GgjUCJR1mtBnxrEZfoTRYF4pxgOAbyz6rg1swOJeNFDS8qNk4aALzMWXmIh31UcLIKKrSTXyalnjL496ZtuWgiDJyLgfEyKGnJmSIm7N9NcBquARGpvG0Q15kKP7nbxdVQt_M</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-105.105312,39.737537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ekar Community Garden</name>
+				<description><![CDATA[6825 E Alameda AvenueDenver, CO 80224]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.90871500000002,39.712048,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Oasis Community Garden (Full for 2016)</name>
+				<description><![CDATA[1847 W 35th Avenue<br>Denver, CO 80211]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.008834,39.765909,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Oasis de Loraine at Focus Points Family Resource Center Community Garden (Full for 2016)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/gnIP9f9zQIhq7gkOVrkfHBkqLMboUXCEqer4h1CvFIQmHxrwUm3m261nH1w8vPmID4YH5DRE5oBTW98gs8bvm_AI2TUyCZB7hxRfFa2W7uplJ1vdw1f3TTIUEytcL1CRh_hCCXoM1gfautU" height="200" width="auto" /><br><br>2501 E 48th Ave Denver, CO 80216]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/gnIP9f9zQIhq7gkOVrkfHBkqLMboUXCEqer4h1CvFIQmHxrwUm3m261nH1w8vPmID4YH5DRE5oBTW98gs8bvm_AI2TUyCZB7hxRfFa2W7uplJ1vdw1f3TTIUEytcL1CRh_hCCXoM1gfautU</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-104.956819,39.783906,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Elati Community Garden (Full for 2016)</name>
+				<description><![CDATA[840 Elati Street<br>Denver, CO 80204]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.993759,39.729671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ellis School Community Garden North (Full for 2016)</name>
+				<description><![CDATA[1651 S Dahlia Street<br>Denver, CO 80222]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.933563,39.687335,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ellis School Community Garden South</name>
+				<description><![CDATA[1651 Dahlia Street, Denver, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.933333,39.686029,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Englewood Community Garden (Full for 2016)</name>
+				<description><![CDATA[NW Corner of W Dartmouth Avenue & S Fox Street<br>Englewood, CO 80110]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.994981,39.660735,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fairmont School Community Garden (Full for 2016)</name>
+				<description><![CDATA[2nd Avenue & Elati StreetDenver, CO 80204]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.993978,39.719236,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fairview School Community Garden</name>
+				<description><![CDATA[2715 W 11th Avenue<br>Denver, CO 80204]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.02153700000001,39.734726,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Family Crisis Center Community Garden (Not open to the public.) </name>
+				<description><![CDATA[2929 W. 10th Ave.<br>Denver, CO 80204]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.023493,39.73343700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>First Plymouth Church Community Garden (Full for 2016)</name>
+				<description><![CDATA[3501 S Colorado Boulevard<br>Englewood, CO 80113]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.942114,39.651748,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fletcher Community Garden (Full for 2016)</name>
+				<description><![CDATA[9898 E Colfax Avenue, Aurora, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.8738441,39.7390641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Gardens at Mountain View Towers/Eliot Cottages (Not open to the public)</name>
+				<description><![CDATA[1222 S Federal Blvd Denver, CO 80219]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.023624,39.694172,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Garden Court Community Garden (Not open to the public.)</name>
+				<description><![CDATA[1150 Syracuse Street<br> Denver, CO 80220]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.89849100000002,39.73430400000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Globeville Community Garden</name>
+				<description><![CDATA[5075 Lincoln Street<br>Denver, CO 80216]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.986593,39.788401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Golden Community Garden (Full for 2016)</name>
+				<description><![CDATA[1506 8th Street<br>Golden, CO 80401]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.233362,39.754189,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Golden Pointe Community Garden (Not open to the public.)</name>
+				<description><![CDATA[17414 W 10th AvenueGolden, CO<br>(This garden serves residents of Golden Pointe and is not open to the public.)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.196806,39.732018,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Golden Natural Grocers Community Garden</name>
+				<description><![CDATA[2401 Ford Street, Golden, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.20945289999997,39.7463794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goldrick Elementary School Community Garden</name>
+				<description><![CDATA[1050 S Zuni, Denver]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.0155586,39.697479400000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Golfer's Way Community Garden (Not open to the public.)</name>
+				<description><![CDATA[448 E Golfer's Way<br>Denver, CO 80230]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.88012300000001,39.72092,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gove Community Garden (Full for 2016)</name>
+				<description><![CDATA[1325 Colorado Boulevard<br>Denver, CO 80206]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.940961,39.737063,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gray Street Community Garden</name>
+				<description><![CDATA[Gray St and W 4th AvenueLakewood, CO 80226]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.06199,39.721873,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Greenlee School Community Garden (Full for 2016)</name>
+				<description><![CDATA[1150 Lipan Street<br>Denver, CO 80204]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.000587,39.734386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Growasis Community Garden (Full for 2016)</name>
+				<description><![CDATA[3060 Lafayette Street<br>Denver, CO 80205]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.97067700000001,39.76002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Halcyon House Community Garden (Not open to the public.)</name>
+				<description><![CDATA[1955 Arapahoe St.<br>Denver, CO 80202]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.991762,39.751471,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harrington School Community Garden</name>
+				<description><![CDATA[2401 E 37th Avenue<br>Denver, CO 80205]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.958862,39.768898,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Heather Regan Memorial Community Garden at Bradley International School</name>
+				<description><![CDATA[3051 S Elm Street<br>Denver, CO 80222]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.930927,39.663318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Helping Hands Community Garden (Not open to the public.)</name>
+				<description><![CDATA[5770 Niagara Street<br>Commerce City, CO 80022]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.90999,39.801477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Highland Gardens Village Community Garden (Full for 2016)</name>
+				<description><![CDATA[36th Place between Utica and Vrain Streets Denver, CO 80212]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.046377,39.767076,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hinkley High School Community Garden (Full for 2016)</name>
+				<description><![CDATA[1250 Chambers Road]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.8090717,39.7347462,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hirschfeld Tower Community Garden (Full for 2016)</name>
+				<description><![CDATA[333 W. Ellsworth Ave, Denver]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.992328,39.7169627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Honor Community Garden at Valdez School</name>
+				<description><![CDATA[2525 W 29th Avenue<br>Denver, CO 80211]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.019032,39.759543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H.O.P.E. Garden Lakewood (Full for 2016)</name>
+				<description><![CDATA[11949 West Colfax Avenue, Lakewood 80215]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.13209500000002,39.741073,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Horse Barn Demonstration Community Garden (Full for 2016)</name>
+				<description><![CDATA[1118 33rd Street, Denver]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.97539520000001,39.763744,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ICCS Kendall Community Garden</name>
+				<description><![CDATA[1651 Kendall St, Lakewood]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.0671589,39.742958,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jardín de Esperanza at Maxwell School</name>
+				<description><![CDATA[14390 Bolling Drive <br>Denver, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.823212,39.78312,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jefferson County Boys &amp; Girls Club Community Garden</name>
+				<description><![CDATA[1275 S. Teller St.<br>Lakewood, CO<br>(This garden serves school and program participants does not have public plots. Volunteers are welcome.)]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.077566,39.694202,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jefferson Park Community Garden</name>
+				<description><![CDATA[Clay Street & W 27th Avenue Denver, CO 80211]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.020762,39.755843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Johnson School Community Garden</name>
+				<description><![CDATA[1850 S Irving Street <br>Denver, CO 80219]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.028996,39.683246,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kavod Senior Life Community Garden (Not open to the public)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/2zL0CKo5Rv81sjuzH-cCAcE7f-VHy4pOYre_H9dbm2PnMrA7LKOlRkE3o-oo_o5rSsqlVjPR8g8ipVTUkR5yLLYTFzCEWbTs086vl6XX27oBhCjsBqgFwMRASQGqKhyp67L1si16XVKDGVc" height="200" width="auto" /><br><br>22 S Adams St Denver, CO 80209]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/2zL0CKo5Rv81sjuzH-cCAcE7f-VHy4pOYre_H9dbm2PnMrA7LKOlRkE3o-oo_o5rSsqlVjPR8g8ipVTUkR5yLLYTFzCEWbTs086vl6XX27oBhCjsBqgFwMRASQGqKhyp67L1si16XVKDGVc</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-104.948786,39.716113,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>KCAA Community Studio Garden (Full for 2016)</name>
+				<description><![CDATA[2250 S Quitman Way, Denver, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.0388026,39.6757321,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lamar Station Community Garden (Not open to the public)</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<Point>
+					<coordinates>-105.064773,39.7358509,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Little Sprouts Community Garden (Full for 2016)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/8oMgzcW7_VBzFnIPtEUrZ_8qh2M6YhH2OItz1Bx-nXUwGecQBVpgKVC_PgElIuJdTdFi9bNbaF6zP7H1RZH_QJgwC3pl0_Uoc9iD9CRVJD4rKZpRqtvxfMvwMzpQ6YDr1mxJqWugW4jQUwk" height="200" width="auto" /><br><br>8448 Otis Dr Arvada, CO 80003]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/8oMgzcW7_VBzFnIPtEUrZ_8qh2M6YhH2OItz1Bx-nXUwGecQBVpgKVC_PgElIuJdTdFi9bNbaF6zP7H1RZH_QJgwC3pl0_Uoc9iD9CRVJD4rKZpRqtvxfMvwMzpQ6YDr1mxJqWugW4jQUwk</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-105.068556,39.853522,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lone Tree Community Garden</name>
+				<description><![CDATA[9375 Heritage Hills Circle, Lone Tree, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.8801469,39.5383642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Louisville Community Garden</name>
+				<description><![CDATA[NE corner Griffith St and Lincoln Ave, Louisville, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.13662399999998,39.983629,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lowell Street Community Garden</name>
+				<description><![CDATA[150 N Lowell Blvd.<br>Denver, CO 80219]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.034718,39.719067,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lowry Family Community Garden (Full for 2016)</name>
+				<description><![CDATA[550 Alton Way<br>Denver, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.878369,39.724921,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lowry School Community Garden</name>
+				<description><![CDATA[8001 E. Cedar Ave.<br>Denver, CO 80230<br>(This is a shared garden. Lowry School Garden is open to the community, but there are no individual plots.)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.896348,39.713133,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Maplewood Apartments Community Garden (Not open to the public)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/8RfZy_DTDYTqFeRZ-g1oGRzTZuTVespLEcxaFgrizbCT1Hvdp_Y8G-vRq_CNo17Lab_u1pYDXD0mQkEtpi7_yamIII4DJ_S6xX8MEqsQBlA8o3rYNnfeW2fbBJA2BZGJKQnCU9cLOFUYDB0" height="200" width="auto" /><br><br>856 S Van Gordon CtLakewood, CO 80228]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/8RfZy_DTDYTqFeRZ-g1oGRzTZuTVespLEcxaFgrizbCT1Hvdp_Y8G-vRq_CNo17Lab_u1pYDXD0mQkEtpi7_yamIII4DJ_S6xX8MEqsQBlA8o3rYNnfeW2fbBJA2BZGJKQnCU9cLOFUYDB0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-105.136907,39.701640000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Marian Plaza Community Garden (Full for 2016)</name>
+				<description><![CDATA[1818 Marion Street<br>Denver, CO 80218]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.971927,39.745208,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McMeen School Community Garden (Full for 2016)</name>
+				<description><![CDATA[1000 S Holly St Denver, CO 80246]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.92051,39.697912,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Metro Caring Community Garden (Not open to the public.)</name>
+				<description><![CDATA[East 18th Avenue & Gilpin<br>Denver, CO]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.967005,39.745012,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moose Meadows Community Garden (Full for 2016)</name>
+				<description><![CDATA[3755 S Magnolia Way Denver, CO 80237]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.911883,39.647995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Montbello Five Loaves Community Garden</name>
+				<description><![CDATA[4879 Crown Boulevard<br>Denver, CO 80239]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.831892,39.783691,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Morey Middle School Community Garden (Full for 2016)</name>
+				<description><![CDATA[840 East 14th Avenue <br>Denver, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.97745,39.737828,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Morgridge Academy Community Garden</name>
+				<description><![CDATA[1400 Jackson Street, Denver CO]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.9414626,39.739225,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount St. Vincent Community Garden (Full for 2016)</name>
+				<description><![CDATA[4159 Lowell Boulevard <br>Denver, CO 80211]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.034962,39.774258,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mountain Terrace Community Garden (Not open to the public.)</name>
+				<description><![CDATA[3650 W 84th Avenue<br>Westminster, CO]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.035927,39.848686,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mountain View United Church Garden (Full for 2016)</name>
+				<description><![CDATA[10700 E. Evans Ave.Aurora, CO 80014]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.86237,39.67793900000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mulroy Community Garden (Not open to the public.)</name>
+				<description><![CDATA[1300 Knox Court<br>Denver, CO]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.03199,39.736911,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New Freedom Community Garden (Full for 2016)</name>
+				<description><![CDATA[Between Yosemite & Xenia Streets on E 13th Avenue]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.88545000000002,39.737026,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Middle School Community Garden</name>
+				<description><![CDATA[12095 E Montview Blvd Aurora, CO 80010]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.84806100000002,39.749144,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Owen Boys &amp; Girls Club Garden (Not open to the public.)</name>
+				<description><![CDATA[3480 W. Kentucky Ave.<br>Denver, CO 80219]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.033658,39.700111,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palmer School Community Garden (Full for 2016)</name>
+				<description><![CDATA[995 Grape Street<br>Denver, CO 80220]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.924836,39.731676,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parkview United Church Community Garden</name>
+				<description><![CDATA[12444 E Parkview DriveAurora, CO 80011]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.841829,39.721477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Park Hill School Garden</name>
+				<description><![CDATA[5050 E. 19th Ave.<br>Denver, CO 80220]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.929833,39.744538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Troy Chavez Memorial Peace Community Garden</name>
+				<description><![CDATA[3825 Shoshone Street<br>Denver, CO 80211]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.009896,39.769847,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pecos Community Garden (Full for 2016)</name>
+				<description><![CDATA[3230 Pecos Street<br>Denver, CO 80211]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.006117,39.762525,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Place Bridge Academy Community Garden</name>
+				<description><![CDATA[7125 Cherry Creek North DriveDenver, CO 80224]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.905969,39.687833,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Quigg Newton Community Garden</name>
+				<description><![CDATA[4408 Mariposa Way<br>Denver, CO 80211]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.00367900000002,39.778938,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RAMERC Community Garden</name>
+				<description><![CDATA[2811 Harrison Street <br>Denver, CO 80205]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.942181,39.7566655,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Regis University Community Garden (Full for 2016)</name>
+				<description><![CDATA[Lowell Boulevard Between W 52nd Avenue & W 53rd]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.03440400000001,39.791952,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Renaissance 88 Community Garden (Not open to the public.)</name>
+				<description><![CDATA[388 E. 88th Ave<br>Denver, CO 80229]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.980904,39.854973,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rosedale Community Garden (Full for 2016)</name>
+				<description><![CDATA[2332 S Sherman Street<br>Denver, CO 80210]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.983597,39.673453,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rose Roots Community Garden</name>
+				<description><![CDATA[84th and AlkireArvada, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.147405,39.849136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruby Hill Park Community Garden</name>
+				<description><![CDATA[W Florida Avenue & S Platte River Drive <br>Denver, CO 80223]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.006015,39.685306000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Saints Community Garden at Jefferson High School (Full for 2016)</name>
+				<description><![CDATA[2305 Pierce St Edgewater, CO 80214]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.072298,39.75102600000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Samuels School Community Garden (Full for 2016)</name>
+				<description><![CDATA[3985 South Vincennes Court<br>Denver, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.892968,39.643284,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Rafael Community Garden (Full for 2016)</name>
+				<description><![CDATA[2245 Emerson Street<br>Denver, CO 80205]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.976009,39.750386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sanctuary Community Garden (Full for 2016)</name>
+				<description><![CDATA[9840 E 17th Ave., Aurora, CO 80010]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.87375560000001,39.7436139,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Community Garden at Shorter African Methodist Episcopal Church</name>
+				<description><![CDATA[3100 Richard Allen Court<br>Denver, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.941803,39.761072,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shoshone Community Garden (Full for 2016)</name>
+				<description><![CDATA[3250 Shoshone Street<br>Denver, CO 80211]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.009443,39.762958,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Grant Community Garden (Full for 2016)</name>
+				<description><![CDATA[1700 S Grant Street<br>Denver, CO 80210]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.983833,39.68504200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spencer Garrett Park Community Garden (Full for 2016)</name>
+				<description><![CDATA[E 17th Avenue & Joliet Street <br>Aurora, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.860709,39.743447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Peter &amp; St. Mary's Community Garden (Full for 2016)</name>
+				<description><![CDATA[126 W 2nd Avenue Denver, CO 80223]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.989643,39.71922800000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Saint Thomas Episcopal Church Community Garden</name>
+				<description><![CDATA[2201 Dexter Street, Denver, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.93315300000002,39.749577,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stapleton Community Garden at The Urban Farm</name>
+				<description><![CDATA[10200 Smith Road<br>Denver, CO 80239]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.870317,39.768195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stapleton Greenway Community Garden</name>
+				<description><![CDATA[7790 E 23rd Avenue<br>Denver, CO 80238]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.89553,39.750325,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Steck School Community Garden (Full for 2016)</name>
+				<description><![CDATA[425 Ash Street<br>Denver, CO 80220]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.938241,39.724188,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Steele School Community Garden (Full for 2016)</name>
+				<description><![CDATA[320 S Marion Parkway<br>Denver, CO 80209]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.971586,39.710917,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sunshine Center Community Garden</name>
+				<description><![CDATA[7111 E 56th AvenueCommerce City, CO]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.905481,39.798963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Swansea School Community Garden</name>
+				<description><![CDATA[4650 Columbine Street<br>Denver, CO 8021]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.956105,39.780618,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SWIC All Nations Community Garden</name>
+				<description><![CDATA[999 S Lowell Boulevard<br>Denver, CO 80219]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.034774,39.698732,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tapiz Community Garden (Not open to the public)</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/L9XEA2IzoG79JDUSshqCar-3LYKXVut8Xet5Rolonx1iyPvcSl3deFLyVP_y-2z0aaSFrpmreSCBwwYT7gLJZf0f7mo3Q9UubO5aFl6v6pUce5r8C8_tAKEh88iKkpDpzeVSPaZH9luO7L4" height="200" width="auto" /><br><br>1099 Osage Street Denver, CO 80204]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/L9XEA2IzoG79JDUSshqCar-3LYKXVut8Xet5Rolonx1iyPvcSl3deFLyVP_y-2z0aaSFrpmreSCBwwYT7gLJZf0f7mo3Q9UubO5aFl6v6pUce5r8C8_tAKEh88iKkpDpzeVSPaZH9luO7L4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-105.005262,39.733681,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Taxi Community Garden (Full for 2016)</name>
+				<description><![CDATA[3455 Ringsby Court<br>Denver, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.983866,39.77216,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Urquhart Memorial Community Garden (Full for 2016)</name>
+				<description><![CDATA[1350 E Florida <br>Denver, CO 80210]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.972305,39.691866,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ute Trail Community Garden (Full for 2016)</name>
+				<description><![CDATA[13600 W Jewell Avenue<br>Lakewood, CO]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.14564,39.679093,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Colfax Community Urban Garden</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/N0nJkNnpwDLL_4gCOzU1smQIwIpFUdWC6SQj7Xwpe97GuxjKL_gUUPbIzMPPCpwnV9uqYLjQ2YLM4IFb06oTgMafM9W5wkT7n9veyVRLETVr_QPItlt4ub7blMs9UpjU6GMAo9S-ALMAzsw" height="200" width="auto" /><br><br>Vrain Street and West Wells Place Denver, CO 80204]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/N0nJkNnpwDLL_4gCOzU1smQIwIpFUdWC6SQj7Xwpe97GuxjKL_gUUPbIzMPPCpwnV9uqYLjQ2YLM4IFb06oTgMafM9W5wkT7n9veyVRLETVr_QPItlt4ub7blMs9UpjU6GMAo9S-ALMAzsw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-105.045851,39.735162,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Washington Park Community Garden (Full for 2016)</name>
+				<description><![CDATA[201 Grant Street<br>Denver, CO 80203]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.98414200000002,39.719719,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Westminster Community Garden (Full for 2016)</name>
+				<description><![CDATA[W 72nd Avenue between Raleigh Street and Bradburn<br>Westminster, CO 80030]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-105.042343,39.828816,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Westwood Community Garden</name>
+				<description><![CDATA[968 S Newton Street<br>Denver, CO 80219]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-105.036424,39.699025,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wheat Ridge Town Center Community Garden (Not open to the public)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Q6ifOIRP9xv9LAQooLNscFFqo1ZZYuihas3FX_f7eHtynEmC5lyy4nHnelX5ePlQ0M9Ns9oIcdwyJxvHaKkuNV4CjKI60kF-ND--5WY4OdJHWCT-t6dg36FYMAnF8DQeCdSIx-NcD517PkM" height="200" width="auto" /><br><br>4340 Vance Street Wheat Ridge, CO 80033]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/Q6ifOIRP9xv9LAQooLNscFFqo1ZZYuihas3FX_f7eHtynEmC5lyy4nHnelX5ePlQ0M9Ns9oIcdwyJxvHaKkuNV4CjKI60kF-ND--5WY4OdJHWCT-t6dg36FYMAnF8DQeCdSIx-NcD517PkM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-105.079083,39.77664,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Whittier School Community Garden (Full for 2016)</name>
+				<description><![CDATA[2480 Downing Street<br>Denver, CO 80205]]></description>
+				<styleUrl>#icon-157</styleUrl>
+				<Point>
+					<coordinates>-104.971152,39.752296,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Willow Glen Community Garden (Not open to the public)</name>
+				<description><![CDATA[1585 Kipling Street<br>Denver, CO 80215]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-105.110246,39.741993,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wood Adventist Church Community Garden </name>
+				<description><![CDATA[1159 S Moline StreetAurora, CO 80010]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-104.854275,39.734297,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Xenia Village Community Garden (Not open to the public.)</name>
+				<description><![CDATA[1415 Xenia Street<br>Denver, CO 80220]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-104.886115,39.739083,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+		</Folder>
+		<Style id='icon-123-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-123-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-123'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-123-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-123-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-123-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-157-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/157-yellow-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-157-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/157-yellow-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-157'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-157-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-157-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
