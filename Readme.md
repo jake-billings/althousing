@@ -1,50 +1,17 @@
-[![Stories in Ready](https://badge.waffle.io/codefordenver/viz-template.png?label=ready&title=Ready)](https://waffle.io/codefordenver/viz-template)
+## Data Resources
 
-# Data Visualization Starter Repo
+https://data.colorado.gov
 
-> **NOTE**: This repo uses javascript es2015 (transpiled to current javascript with babel.js). If you are not familiar with this, it is recommended you look at https://babeljs.io/docs/learn-es2015/ for a quick reference to get you up to speed.
+https://www.denvergov.org/opendata
+  Crime (super up-to-date): https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime
 
-## Up and running
+http://www.opendatanetwork.com/region/310M200US19740/Denver_Metro_Area_(CO)/
 
-You will need [Node.js](https://nodejs.org/en/) to develop.
+RTD - Transit
+  http://www.rtd-denver.com/Developer.shtml
 
-In your terminal, clone the project. After installing the dependencies, you can start the server and visit `http://localhost:3000`.
+## Waffle.io Hackshop
 
-```sh
-$ git clone git@github.com:codefordenver/viz-template.git
-$ npm install
-$ npm start
-```
+[![Stories Ready to Work On](https://badge.waffle.io/codyssia/althousing.svg?label=ready&title=Cards%20Ready%20To%20Work%20On)](https://waffle.io/codyssia/althousing)
 
-## Developing
-
-Before you start developing, you need to remove the remote (which is pointed to `codefordenver/viz-template` when you clone it) and add a remote that's tied to your github account.
-
-```sh
-$ git remote rm origin
-$ git remote add origin <URL to your repo here>
-```
-
-If you don't want to deal with remotes, you can just remove the `.git` file and initialize a new git repository.
-
-```sh
-$ rm -rf .git
-$ git init
-```
-
-## Adding template code to an existing repository
-
-If you are starting from an existing repository, and would like to add this template code,
-simply run the following in your terminal:
-
-```sh
-git remote add viz-template https://github.com/codefordenver/viz-template.git && \
-git fetch viz-template && \
-git merge -X theirs viz-template/master
-```
-
-> **NOTE**: The `merge -X theirs` will in this case merge in the history from this repo, but use your local existing files in place of any conflicting files with this repo.
-
-## License
-
-MIT
+This repo was created from http://hackshop.waffle.io. Use [the Waffle board](https://waffle.io/codyssia/althousing) for this repo to always know what to do next for your hackshop project!
